@@ -1,6 +1,10 @@
 # AngularTaskTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+# GUI
+
+![sn1](https://user-images.githubusercontent.com/44326950/151299849-c3ba0a05-8083-4a1c-8174-83c1f427cc54.JPG)
+![sn2](https://user-images.githubusercontent.com/44326950/151299867-49f5e7c9-420d-492c-b797-5ac8ce6d413f.JPG)
 
 ## Development server
 
